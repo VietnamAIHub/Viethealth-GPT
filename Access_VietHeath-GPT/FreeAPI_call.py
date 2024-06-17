@@ -75,7 +75,7 @@ messages = {
 }
 ## Optional 
 # Append the user message
-messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn tôi, 30 tuổi, đã vô tình nuốt phải hai giọt phenol vì nhầm là sữa. Anh ấy đã nôn và uống nhiều nước muối. Xin hãy tư vấn cho bất kỳ tác dụng phụ nào.?"})
+messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn tôi, 30 tuổi, đã vô tình nuốt phải hai giọt phenol vì nhầm là sữa. Anh ấy đã nôn và uống nhiều nước muối. Xin hãy tư vấn cho bất kỳ tác dụng phụ nào.? \n\nYour Vietnamese response:"})
 # Append the assistant response
 
 input_prompt = apply_chat_template(messages)
