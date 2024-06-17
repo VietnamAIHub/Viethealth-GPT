@@ -29,7 +29,7 @@ def apply_chat_template(example):
         role = message['role']
         
         if role =="user":
-            content = "<|start_header_id|>user<|end_header_id|>\n\n" + message['content'] + eos_token_
+            content = "<|start_header_id|>user<|end_header_id|>\n\n" + message['content'] +"\n\nYour Vietnamese response:" + eos_token_
             formatted_chat += f'{content}'
         
         elif  role =="assistant":
@@ -75,7 +75,7 @@ messages = {
 }
 ## Optional 
 # Append the user message
-messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn tôi, 30 tuổi, đã vô tình nuốt phải hai giọt phenol vì nhầm là sữa. Anh ấy đã nôn và uống nhiều nước muối. Xin hãy tư vấn cho bất kỳ tác dụng phụ nào.? \n\nYour Vietnamese response:"})
+messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn tôi, 30 tuổi, đã vô tình nuốt phải hai giọt phenol vì nhầm là sữa. Anh ấy đã nôn và uống nhiều nước muối. Xin hãy tư vấn cho bất kỳ tác dụng phụ nào.?"})
 # Append the assistant response
 
 input_prompt = apply_chat_template(messages)
