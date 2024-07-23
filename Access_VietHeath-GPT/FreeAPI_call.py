@@ -80,7 +80,7 @@ messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn t
 
 input_prompt = apply_chat_template(messages)
 
-url = "http://140.115.53.106:5000/api/generate"
+url = "http://140.115.53.106:8080/api/generate"
 payload = {
     "model": "VietHealthGPT_202407_8B",
     "prompt": input_prompt,
