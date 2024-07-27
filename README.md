@@ -43,3 +43,40 @@ Bộ Đánh giá Benchmark sau bao gồm các bộ dữ liệu đánh giá chu�
 
 ## Chỉ Số Đánh Giá
 Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh giá chính trên tất cả các bộ dữ liệu. Đây là chỉ số quan trọng để đo lường mức độ chính xác và hiệu quả của các mô hình hỗ trợ y tế trong việc xử lý và
+
+# Hiệu Suất Các Mô Hình Trên Các Bộ Dữ Liệu Đánh Giá Chuẩn Y Tế
+
+## Phần 1: Hiệu Suất Trên Phiên Bản Tiếng Anh
+| Mô Hình             | Clinical KG | Medical Genetics | Anatomy | Pro Medicine | College Biology | College Medicine | MedQA 4 opts |
+|---------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|
+| VietHealth-GPT-70B      | 91.13       | 91.32           | 82.904  | 92.63        | 90.827          | 84.749           | 77.33       |
+| VietHealth-GPT 8B      | -      | -          | -  | -       | -         | -           | -      |
+
+| LLAMA3.1-70B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3.1-8B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3-70B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3-8B      | -      | -          | -  | -       | -         | -           | -      |
+| OpenBioLLM-70B      | 92.93       | 93.197           | 83.904  | 93.75        | 93.827          | 85.749           | 78.162       |
+| Med-PaLM-2 (5-shot) | 88.3        | 90               | 77.8    | 95.2         | 94.4            | 80.9             | 79.7         |
+| GPT-4               | 86.04       | 91               | 80      | 93.01        | 95.14           | 76.88            | 78.87        |
+| Med-PaLM-1 (Flan-PaLM, 5-shot) | 80.4 | 75          | 63.7    | 83.8         | 88.9            | 76.3             | 67.6         |
+| OpenBioLLM-8B       | 76.101      | 86.1             | 69.829  | 78.21        | 84.213          | 68.042           | 58.993       |
+| Gemini-1.0          | 76.7        | 75.8             | 66.7    | 77.7         | 88              | 69.2             | 58           |
+| GPT-3.5 Turbo 1106  | 74.71       | 74               | 72.79   | 72.79        | 72.91           | 64.73            | 57.71        |
+| Meditron-70B        | 66.79       | 69               | 53.33   | 71.69        | 76.38           | 63               | 57.1         |
+| gemma2-9b            | -      | -          | -  | -       | -         | -           | -      |
+| gemma2-27b            | -      | -          | -  | -       | -         | -           | -      |
+| gemma-7b            | 69.81       | 70               | 59.26   | 66.18        | 79.86           | 60.12            | 47.21        |
+
+## Phần 2: Hiệu Suất Trên Phiên Bản Tiếng Việt (Comming Soon)
+| Mô Hình             | Clinical KG (Vi) | Medical Genetics (Vi) | Anatomy (Vi) | Pro Medicine (Vi) | College Biology (Vi) | College Medicine (Vi) | MedQA 4 opts (Vi) |
+|---------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|
+| OpenBioLLM-70B       |-          | -               | -     | -           | -              | -              | -           |
+| Med-PaLM-2 (5-shot)  |-          | -               | -     | -           | -              | -              | -           |
+| GPT-4O               |-          | -               | -     | -           | -              | -              | -           |
+| Med-PaLM-1 (Flan-PaLM, 5-shot)  |-          | -               | -     | -           | -              | -              | -           |
+| OpenBioLLM-8B       |-          | -               | -     | -           | -              | -              | -           |
+| Gemini-1.0          |-          | -               | -     | -           | -              | -              | -           |
+| GPT-3.5 Turbo 1106  |-          | -               | -     | -           | -              | -              | -           |
+| Meditron-70B       |-          | -               | -     | -           | -              | -              | -           |
+| gemma-27B            |-          | -               | -     | -           | -              | -              | -           |
