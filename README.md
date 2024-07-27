@@ -24,8 +24,8 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
 **Coming Version** (Đang Training) Được Ước Tính **40.000 H100 GPUs** Hours (Xử Lý, Chuẩn Bị Dữ Liệu & Model Training Model (8B, 70B, 27B)
   
 ## News: 
-+ [2024.07] VietHealth-GPT Instruct 8B (Based LLama 3 Model-- LoRa Fineutning) 🔥
-+ [2024.07] VietHealth-GPT Instruct 8B (Based LLama 3 Model-- FullParameter Fineutning) 🔥
++ [2024.07] VietHealth-GPT Instruct 8B (Based LLama 3 Model-- LoRa Fineutning) [Download Model](https://huggingface.co/VietnamAIHub/VietHealth-GPT-8B-202407)🔥
++ [2024.06] VietHealth-GPT Instruct 8B (Based LLama 3 Model-- FullParameter Fineutning) [Download Model](https://huggingface.co/VietnamAIHub/VietHealth-GPT-8B-202406)🔥
 + [2024.07] VietHealth-GPT Instruct 70B (Yêu Cầu Try Cập Model --> Sending by Email [rick.tvn@foxconn.com])
 
 
