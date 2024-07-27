@@ -72,6 +72,12 @@ Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh g
 ## Phần 2: Hiệu Suất Trên Phiên Bản Tiếng Việt (Comming Soon)
 | Mô Hình             | Clinical KG (Vi) | Medical Genetics (Vi) | Anatomy (Vi) | Pro Medicine (Vi) | College Biology (Vi) | College Medicine (Vi) | MedQA 4 opts (Vi) |
 |---------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|
+| VietHealth-GPT 70B   (2024-07)   | -      | -          | -  | -       | -         | -           | -      |
+| VietHealth-GPT 8B   (2024-07)   | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3.1-70B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3.1-8B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3-70B      | -      | -          | -  | -       | -         | -           | -      |
+| LLAMA3-8B      | -      | -          | -  | -       | -         | -           | -      |
 | OpenBioLLM-70B       |-          | -               | -     | -           | -              | -              | -           |
 | Med-PaLM-2 (5-shot)  |-          | -               | -     | -           | -              | -              | -           |
 | GPT-4O               |-          | -               | -     | -           | -              | -              | -           |
@@ -80,4 +86,6 @@ Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh g
 | Gemini-1.0          |-          | -               | -     | -           | -              | -              | -           |
 | GPT-3.5 Turbo 1106  |-          | -               | -     | -           | -              | -              | -           |
 | Meditron-70B       |-          | -               | -     | -           | -              | -              | -           |
-| gemma-27B            |-          | -               | -     | -           | -              | -              | -           |
+| gemma2-9b            | -      | -          | -  | -       | -         | -           | -      |
+| gemma2-27b            | -      | -          | -  | -       | -         | -           | -      |
+| gemma-7B            |-          | -               | -     | -           | -              | -              | -           |
