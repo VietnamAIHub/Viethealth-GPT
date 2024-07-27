@@ -14,3 +14,11 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
      <img width="auto" height="600px" src="./images/VietHealthGPT_medical_domains.png"/>
 </div>
 
+## 1. Roadmap Development of VietHealth-GPT: 
+
+<div align="center">
+     <img width="auto" height="400px" src="./GPTViet_llm.png"/>
+</div>
+
+## VietHealthGPT Demo: 
++ [**VietHealthGPT Version 2024-07**](http://140.115.53.104:6667/)
