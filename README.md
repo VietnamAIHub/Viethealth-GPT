@@ -11,7 +11,7 @@ This project aims to develop a Foundation Vietnamese Heathcare Assistant VietHea
 </h3>
 
 <div align="center">
-     <img width="auto" height="400px" src="./VietHealthGPT_medical_domains.png"/>
+     <img width="auto" height="400px" src="./images/VietHealthGPT_medical_domains.png"/>
 </div>
 
 ## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
