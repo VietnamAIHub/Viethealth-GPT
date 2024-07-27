@@ -27,7 +27,7 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
 
 + Comprehensive and Advanced Vietnamese Benchmark for Medical Language Model
   
-Kho lưu trữ này bao gồm các bộ dữ liệu đánh giá chuẩn được thiết kế để đánh giá các mô hình trợ lý y tế. Dưới đây là mô tả chi tiết về từng bộ dữ liệu cùng với các chỉ số và kích thước mẫu của chúng.
+Bộ Đánh giá Benchmark sau bao gồm các bộ dữ liệu đánh giá chuẩn được thiết kế để đánh giá các mô hình trợ lý y tế. Dưới đây là mô tả chi tiết về từng bộ dữ liệu cùng với các chỉ số và kích thước mẫu của chúng.
 
 | Danh Mục Đánh Giá         | Mô Tả Nhiệm Vụ Đánh Giá                                                                                    | Chỉ Số | Số Lượng Mẫu |
 |--------------------------|------------------------------------------------------------------------------------------------------------|--------|--------------|
