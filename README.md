@@ -17,7 +17,7 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
 ## 1. Roadmap Development of VietHealth-GPT: 
 
 <div align="center">
-     <img width="auto" height="400px" src="./images/VietHealth-GPT_Roadmap.png"/>
+     <img width="auto" height="500px" src="./images/VietHealth-GPT_Roadmap.png"/>
 </div>
 
 ## VietHealth-GPT Demo: 
