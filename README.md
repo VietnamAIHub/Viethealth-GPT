@@ -44,9 +44,10 @@ Bộ Đánh giá Benchmark sau bao gồm các bộ dữ liệu đánh giá chu�
 ## Chỉ Số Đánh Giá
 Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh giá chính trên tất cả các bộ dữ liệu. Đây là chỉ số quan trọng để đo lường mức độ chính xác và hiệu quả của các mô hình hỗ trợ y tế trong việc xử lý và
 
-# Hiệu Suất Các Mô Hình Trên Các Bộ Dữ Liệu Đánh Giá Chuẩn Y Tế
+# Hiệu Suất Các Mô Hình Trên Các Bộ Dữ Liệu Đánh Giá Chuẩn Y Tế 
 
 ## Phần 1: Hiệu Suất Trên Phiên Bản Tiếng Anh
++ [**Các Model Performance**](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
 | Mô Hình             | Clinical KG | Medical Genetics | Anatomy | Pro Medicine | College Biology | College Medicine | MedQA 4 opts |
 |---------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|
 | VietHealth-GPT-70B (2024-07)      | 91.13       | 91.32           | 82.904  | 92.63        | 90.827          | 84.749           | 77.33       |
