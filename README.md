@@ -91,3 +91,9 @@ Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh g
 | gemma2-9b            | -      | -          | -  | -       | -         | -           | -      |
 | gemma2-27b            | -      | -          | -  | -       | -         | -           | -      |
 | gemma-7B            |-          | -               | -     | -           | -              | -              | -           |
+
+
+
+## Hợp Tác & Tài Trợ Cho Dự Án:
+  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [rick.tvn@foxconn.com](). Hoặc có thể chat trực tiếp ở: [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) [Facebook](https://www.facebook.com/jean.tran.336). [X](https://twitter.com/TranRick2). [Zalo +886 934 311 751]()
+
