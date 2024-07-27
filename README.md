@@ -14,7 +14,7 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
      <img width="auto" height="600px" src="./images/VietHealthGPT_medical_domains.png"/>
 </div>
 
-## <span style="color:red;">VietHealth-GPT Demo:</span>
+## ![VietHealth-GPT Demo](assets/red-text.png)
 
 + [**VietHealthGPT Instruct Version 2024-07**](http://140.115.53.104:6667/)
 
