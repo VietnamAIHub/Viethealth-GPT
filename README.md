@@ -18,7 +18,9 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
 ## 🚨 VietHealth-GPT Demo: 🚨
 
 + [**VietHealthGPT Instruct Version 2024-07**](http://140.115.53.104:6667/)
+
 **Version 2024-07** dùng khoảng **50.000 A100 GPUs** Hours (Dữ Liệu Process & Model Training Model)
+
 **Version 2024-08-09** (Đang Training) Được Ước Tính **30.000 H100 GPUs** Hours (Dữ Liệu Process & Model Training Model)
   
 ## News: 
