@@ -4,6 +4,7 @@
 </h1>
 
 This project aims to develop a Vietnamese Medical Foundation Assistant VietHealth-GPT.
+## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
 
 <h3 align="center">
   <span> VietHealthGPT - Initialed Target Developments</span>
@@ -13,4 +14,3 @@ This project aims to develop a Vietnamese Medical Foundation Assistant VietHealt
      <img width="auto" height="600px" src="./images/VietHealthGPT_medical_domains.png"/>
 </div>
 
-## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
