@@ -1,4 +1,3 @@
-# VietHealth-GPT
 
 <h1 align="center">
   <span> VietHealth-GPT - Advancing Vietnamese HealthCare Assistant</span>
