@@ -79,8 +79,12 @@ messages["messages"].append({"role": "user", "content": "Cho tôi hỏi, Bạn t
 # Append the assistant response
 
 input_prompt = apply_chat_template(messages)
-
+## VietHealth-GPT 8B Version 2024-06
 url = "http://140.115.53.106:8080/api/generate"
+
+## VietHealth-GPT 70B Version 2024-07
+##url = "Contact Tran Nhiem"
+
 payload = {
     "model": "VietHealthGPT_202407_8B",
     "prompt": input_prompt,
