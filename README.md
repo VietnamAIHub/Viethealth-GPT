@@ -49,8 +49,8 @@ Chỉ số Độ Chính Xác (ACC) được sử dụng làm chỉ số đánh g
 ## Phần 1: Hiệu Suất Trên Phiên Bản Tiếng Anh
 | Mô Hình             | Clinical KG | Medical Genetics | Anatomy | Pro Medicine | College Biology | College Medicine | MedQA 4 opts |
 |---------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|
-| VietHealth-GPT-70B      | 91.13       | 91.32           | 82.904  | 92.63        | 90.827          | 84.749           | 77.33       |
-| VietHealth-GPT 8B      | -      | -          | -  | -       | -         | -           | -      |
+| VietHealth-GPT-70B (2024-07)      | 91.13       | 91.32           | 82.904  | 92.63        | 90.827          | 84.749           | 77.33       |
+| VietHealth-GPT 8B   (2024-07)   | -      | -          | -  | -       | -         | -           | -      |
 | LLAMA3.1-70B      | -      | -          | -  | -       | -         | -           | -      |
 | LLAMA3.1-8B      | -      | -          | -  | -       | -         | -           | -      |
 | LLAMA3-70B      | -      | -          | -  | -       | -         | -           | -      |
